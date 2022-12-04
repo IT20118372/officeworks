@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------
+
+* Project Name : 
+
+* Informed date about new Project :
+
+* Given date to start :
+
+----------------------------------------------------------------------------------
+	-- Information from P.M. --
+
+* Meetiing for discuss project details : 
+* If Yes, Meeting date :
+
+* Are the designs finalized : 
+
+* Are the designs approved for the developments ? :
+
+* Check designs for additional informations :
+
+* Maximum working days for deveopment deadline :
+
+* Development deadline : 
+
+---------------------------------------------------------------------------------------
+
+	-- Other --
+
+
+

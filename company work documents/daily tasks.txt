@@ -1,0 +1,43 @@
+Task list - 11/17/2022 (SC PRINTING) 
+
+* timeline component devlop [done]
+* blog page css add [done]
+* search function [done]
+* staging site all component page modify [done]
+* news letter page template develop [done]
+* add local backend to staging backend and add data to staging [done]
+
+>> worked time : FullDay ( 06.07AM - 09.14PM )
+
+----------------------------------------------------------------------------------------------------------------------
+
+Task list - 11/18/2022 (SC PRINTING)
+
+* Have to try home page video banner [done]
+* blog page search box css error [done]
+* check the gaps [done]
+* big video backgroud image issue [done]
+* slider-image sizes issue [done]
+* image resizes errors fix [done]
+
+>> worked time : FullDay ( 06.53AM - 09.20PM )
+
+----------------------------------------------------------------------------------------------------------------------
+
+Task list - 11/19/2022 (SC PRINTING)
+
+* Add welcome section video background to staging site. [done]
+* Fix erros in mobile welcome section [done]
+
+>> worked time : HalfDay ( 05.45AM - 02.56PM )
+
+----------------------------------------------------------------------------------------------------------------------
+
+Task list - 11/20/2022 (Sunday) to 12/2/2022 (Friday)
+
+>> worked time : ~5 hr. [kicovera changes, new progect integration, meeting]
+
+----------------------------------------------------------------------------------------------------------------------
+
+Task list - 12/5/2022 (VIRSTACK)
+
